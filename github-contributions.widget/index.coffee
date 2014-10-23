@@ -9,7 +9,7 @@ refreshFrequency: 3600000 # 1 hour
 style: """
 position: absolute
 bottom: 10px
-left: 430px
+left: 330px
 
 .container
   opacity:0.8
